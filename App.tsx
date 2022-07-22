@@ -1,3 +1,5 @@
+import 'react-native-url-polyfill/auto'
+
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
